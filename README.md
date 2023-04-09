@@ -18,3 +18,10 @@ p - Pauses the effect
 ```
 ### preview
 ![image of rmatrix](rmatrix.png)
+
+## non fun stuff booo!!:
+### dependencies
+```ncurses ruby rubygems ncurses-ruby-gem```
+<br/>
+can install using <br/>
+``make [deb/arch/gentoo/rpm]-deps`` (with root perms)
